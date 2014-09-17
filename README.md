@@ -8,6 +8,18 @@ npm install --save-dev tachyons-styles
 ```
 or download the css on github and include in your project.
 
+## The Code
+```
+
+/*
+
+  STYLES
+
+  Add custom styles here.
+
+*/
+```
+
 ## Author
 
 [http://mrmrs.cc - Entire internet gateway to all things mrmrs](http://mrmrs.cc)
