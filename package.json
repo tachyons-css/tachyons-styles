@@ -1,6 +1,6 @@
 {
   "name": "tachyons-styles",
-  "version": "0.2.3",
+  "version": "0.2.4",
   "style": "tachyons-styles.css",
   "homepage": "http://github.com/mrmrs/tachyons-styles",
   "description": "Performance based css module.",
