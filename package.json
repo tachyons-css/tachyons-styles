@@ -2,15 +2,15 @@
   "name": "tachyons-styles",
   "version": "0.3.1",
   "style": "tachyons-styles.css",
-  "homepage": "http://github.com/mrmrs/tachyons-styles",
+  "homepage": "http://github.com/tachyons-css/tachyons-styles",
   "description": "Performance based css module.",
   "keywords": [],
   "repository": {
     "type": "git",
-    "url": "http://github.com/mrmrs/tachyons-styles.git"
+    "url": "http://github.com/tachyons-css/tachyons-styles.git"
   },
   "bugs": {
-    "url": "https://github.com/mrmrs/tachyons-styles/issues",
+    "url": "https://github.com/tachyons-css/tachyons-styles/issues",
     "email": "hi@mrmrs.cc"
   },
   "author": {
